@@ -4,18 +4,9 @@
 Arch Linux user, GNOME enjoyer
 # 👨‍💻 Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <div style="display: inline-block;">
-    <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%201.png">
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%202.png">
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%203.png">
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%204.png">
-  </div>
+<div style="text-align: center;">
+  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%201.png" width="150px" style="display: inline-block; margin: 0 10px 10px 0;">
+  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%202.png" width="150px" style="display: inline-block; margin: 0 10px 10px 0;">
+  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%203.png" width="150px" style="display: inline-block; margin: 0 10px 10px 0;">
+  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%204.png" width="150px" style="display: inline-block; margin: 0 10px 10px 0;">
 </div>
-
