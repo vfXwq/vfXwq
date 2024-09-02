@@ -4,9 +4,9 @@
 Arch Linux user, GNOME enjoyer
 # 👨‍💻 Skills
 
-<div style="text-align: center;">
-  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%201.png" style="width: 300px; display: inline-block; padding-right=50px;">
-  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%202.png" style="width: 300px; display: inline-block; padding-right=50px;">
-  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%203.png" style="width: 300px; display: inline-block; padding-right=50px;">
-  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%204.png" style="width: 300px; display: inline-block; padding-right=50px;">
+<div>
+  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%201.png" style="width: 300px; display: inline-block;">
+  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%202.png" style="width: 300px; display: inline-block;">
+  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%203.png" style="width: 300px; display: inline-block;">
+  <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%204.png" style="width: 300px; display: inline-block;">
 </div>
