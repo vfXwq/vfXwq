@@ -4,13 +4,18 @@
 Arch Linux user, GNOME enjoyer
 # 👨‍💻 Skills
 
-<table style="border-collapse: collapse; margin: 0 auto; padding: 0; border-spacing: 0;">
-  <tr>
-    <td style="padding: 0; border: none;"><img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%201.png"></td>
-    <td style="padding: 0; border: none;"><img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%202.png"></td>
-  </tr>
-  <tr>
-    <td style="padding: 0; border: none;"><img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%203.png"></td>
-    <td style="padding: 0; border: none;"><img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%204.png"></td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="display: inline-block;">
+    <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%201.png" width="150px">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%202.png" width="150px">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%203.png" width="150px">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%204.png" width="150px">
+  </div>
+</div>
+
