@@ -3,7 +3,8 @@
 
 Arch Linux user, GNOME enjoyer
 # 👨‍💻 Skills
-<table style="border-collapse: collapse; border: none;">
+
+<table style="border-collapse: collapse; margin: 0 auto; padding: 0; border-spacing: 0;">
   <tr>
     <td style="padding: 0; border: none;"><img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%201.png"></td>
     <td style="padding: 0; border: none;"><img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%202.png"></td>
