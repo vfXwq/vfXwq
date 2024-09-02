@@ -3,3 +3,4 @@
 
 Arch Linux user, GNOME enjoyer
 # 👨‍💻 Skills
+<img src="https://github.com/vfXwq/images-for-readme/blob/main/Frame%201.png">
